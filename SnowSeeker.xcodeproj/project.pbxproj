@@ -11,6 +11,8 @@
 		B2A3D81E2C95036B00521658 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2A3D81D2C95036B00521658 /* ContentView.swift */; };
 		B2A3D8202C95036E00521658 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2A3D81F2C95036E00521658 /* Assets.xcassets */; };
 		B2A3D8232C95036E00521658 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2A3D8222C95036E00521658 /* Preview Assets.xcassets */; };
+		B2A3D82A2C95042900521658 /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2A3D8292C95042900521658 /* PracticeView.swift */; };
+		B2A3D82C2C95078900521658 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2A3D82B2C95078900521658 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		B2A3D81D2C95036B00521658 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B2A3D81F2C95036E00521658 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2A3D8222C95036E00521658 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B2A3D8292C95042900521658 /* PracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
+		B2A3D82B2C95078900521658 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				B2A3D81D2C95036B00521658 /* ContentView.swift */,
 				B2A3D81F2C95036E00521658 /* Assets.xcassets */,
 				B2A3D8212C95036E00521658 /* Preview Content */,
+				B2A3D8292C95042900521658 /* PracticeView.swift */,
+				B2A3D82B2C95078900521658 /* User.swift */,
 			);
 			path = SnowSeeker;
 			sourceTree = "<group>";
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2A3D82C2C95078900521658 /* User.swift in Sources */,
 				B2A3D81E2C95036B00521658 /* ContentView.swift in Sources */,
+				B2A3D82A2C95042900521658 /* PracticeView.swift in Sources */,
 				B2A3D81C2C95036B00521658 /* SnowSeekerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
